@@ -23,7 +23,7 @@ class HomeController extends AbstractController
                 'description' => 'Assist in building responsive web pages using React and Bootstrap.'
             ],
             [
-                'title' => 'AI Research Intern',
+                'title' => 'AI&ML Research Intern',
                 'company' => 'DeepThink AI',
                 'description' => 'Explore AI model optimization in a real-world environment.'
             ]
